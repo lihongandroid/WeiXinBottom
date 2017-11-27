@@ -1,2 +1,7 @@
 # WeiXinBottom
 仿写微信布局以及实现底部导航的几种方式
+
+WeChatDemo是自己第一次实现微信布局，没有参考课程，WeChat是对WeChatDemo的优化，在WeChat里有比较详细的注解
+ 
+BottomTab、BitNavView、FragmentTabHost、RadioGroup是查看网上教程后，几种实现底部布局的方式
+
