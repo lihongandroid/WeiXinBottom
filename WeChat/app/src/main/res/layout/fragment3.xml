@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:drawableLeft="@drawable/find_more_friend_photograph_icon"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:drawablePadding="16dp"
+        android:background="#ffffffff"
+        android:text="朋友圈"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:drawableLeft="@drawable/find_more_friend_scan"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:drawablePadding="16dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffffff"
+        android:text="扫一扫"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <View
+        android:paddingLeft="20dp"
+        android:paddingRight="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="0.1dp"/>
+    <TextView
+        android:drawableLeft="@drawable/find_more_friend_shake"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:drawablePadding="16dp"
+        android:background="#ffffffff"
+        android:text="摇一摇"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:drawableLeft="@drawable/find_more_friend_near_icon"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:drawablePadding="16dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffffff"
+        android:text="附近的人"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <View
+        android:paddingLeft="20dp"
+        android:paddingRight="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="0.1dp"/>
+    <TextView
+        android:drawableLeft="@drawable/find_more_friend_bottle"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:drawablePadding="16dp"
+        android:background="#ffffffff"
+        android:text="漂流瓶"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:drawableLeft="@drawable/more_my_favorite"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:drawablePadding="16dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffffff"
+        android:text="购物"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <View
+        android:paddingLeft="20dp"
+        android:paddingRight="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="0.1dp"/>
+    <TextView
+        android:drawableLeft="@drawable/more_game"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:drawablePadding="16dp"
+        android:background="#ffffffff"
+        android:text="游戏"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:drawableLeft="@drawable/find_more_friend_qq_icon"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:drawablePadding="16dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffffff"
+        android:text="小程序"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+</LinearLayout>

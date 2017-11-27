@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_menu_weixin"
+        android:icon="@drawable/tab_weixin_normal"
+        android:title="微信"/>
+    <item
+        android:id="@+id/tab_menu_address"
+        android:icon="@drawable/tab_address_normal"
+        android:title="通讯录"/>
+
+    <item
+        android:id="@+id/tab_menu_find"
+        android:icon="@drawable/tab_find_frd_normal"
+        android:title="发现"/>
+    <item
+        android:id="@+id/tab_menu_me"
+        android:icon="@drawable/tab_settings_normal"
+        android:title="我"/>
+
+
+</menu>
